@@ -1,3 +1,6 @@
-.banner-content h2{
+.banner-content h2 {
+    text-transform: none !important;
+}
+section-title h2 {
     text-transform: none !important;
 }
