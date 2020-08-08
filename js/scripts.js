@@ -244,7 +244,7 @@ We may release future updates so it will overwrite this file. it's better and sa
 
         if(typedTarget.length) {
             var typed = new Typed(typedElement, {
-                strings: ['Start your business with award winning company.', 'Get ready to get summer big discount!'],
+                strings: ['Aprende a montar al estilo western'],
                 typeSpeed: 50,
                 backSpeed: 10,
                 loop: true
