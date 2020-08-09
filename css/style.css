@@ -551,7 +551,7 @@ select.parsley-error {
     margin-bottom: 3rem;
 }
 .section-title h2 {
-    text-transform: capitalize;
+    text-transform: none;
 }
 .section-title p {
     margin-top: 1.5rem;
